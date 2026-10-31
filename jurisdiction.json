@@ -1,0 +1,9 @@
+{
+  "path": "br-pa-belem",
+  "code": "BR-PA-BELEM",
+  "name": "Belém (city)",
+  "level": "municipality",
+  "parent": "br-pa",
+  "repo": "https://github.com/lexifina/brazil-belem-city-law",
+  "build": "built: the Lei Orgânica of Belém, from the Câmara Municipal's updated edition"
+}

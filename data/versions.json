@@ -1,0 +1,19 @@
+{
+ "country": "BR-PA-BELEM",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOMB",
+   "title": "Lei Orgânica do Município de Belém",
+   "url": "https://www.cmb.pa.gov.br/portal-da-transparencia/lei-organica-do-municipio",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 262,
+     "source_url": "https://www.cmb.pa.gov.br/uploads/blocos/2026/09/lomb-atualizada-em-setembro-de-2026_1790767468_cf5e136c.pdf",
+     "sha256": "324433ee3ed74c550a1200a2cb09aa4f7f1559a72ff1dd4e43326bcb7a3a7c30"
+    }
+   ]
+  }
+ ]
+}
